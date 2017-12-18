@@ -7,7 +7,7 @@
           <option value="en">English</option>
           <option value="ru">Russian</option>
           <option value="ko">Korean</option>
-          <option value="ja">Janpenese</option>
+          <option value="en-zh">中文</option>
         </select>
         <input class="btn btn-primary" type="submit" value="翻译"/>
       </form>
