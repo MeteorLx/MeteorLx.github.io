@@ -1,8 +1,8 @@
-# translate
+# Vue 在线翻译项目
 
 > A Vue.js project
 
-## Build Setup
+## 使用方法
 
 ``` bash
 # install dependencies
